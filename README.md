@@ -2,7 +2,7 @@
 
 PURPOSE:
 
-To learn. if you decide to use this, do not trust the addresses/QR created are correct. PLEASE VERIFY. I'm a new to this and
+To learn. if you decide to use this, do not trust the addresses/QR created are correct. PLEASE VERIFY. I am new to this and
 just wanted to make something.
 
 
