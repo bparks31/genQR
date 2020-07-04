@@ -30,9 +30,3 @@ script will move to the next availible address in addresses.txt.
 user should not need to edit usedAddresses.txt directly.
 
 -script will display only one address when it is ran. 
-
-
-if you think this is cool, here's a tipping address. =)
-
-bc1q8gpcj8rjn2f2h7ljd8cv8k887dfqdtlqe59f2t
-
